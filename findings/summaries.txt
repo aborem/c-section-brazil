@@ -1,0 +1,598 @@
+cleaning data for state AC, 0/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                  835
+Model:                            GLM   Df Residuals:                      831
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -1011.5
+Date:                Mon, 18 Nov 2019   Deviance:                       135.21
+Time:                        10:23:37   Pearson chi2:                     137.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.6745      0.387      1.744      0.081      -0.084       1.433
+ESCMAE         0.0850      0.045      1.884      0.060      -0.003       0.173
+RACACOR       -0.0318      0.036     -0.877      0.380      -0.103       0.039
+LOCNASC       -0.3407      0.335     -1.016      0.310      -0.998       0.317
+==============================================================================
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 1072
+Model:                            GLM   Df Residuals:                     1068
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -1355.8
+Date:                Mon, 18 Nov 2019   Deviance:                       167.39
+Time:                        10:30:55   Pearson chi2:                     157.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.4445      0.593      0.750      0.453      -0.717       1.606
+ESCMAE         0.0530      0.043      1.223      0.221      -0.032       0.138
+RACACOR       -0.0099      0.020     -0.507      0.612      -0.048       0.028
+LOCNASC       -0.0397      0.578     -0.069      0.945      -1.173       1.094
+==============================================================================
+cleaning data for state AC, 0/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                  835
+Model:                            GLM   Df Residuals:                      831
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -1011.5
+Date:                Mon, 18 Nov 2019   Deviance:                       135.21
+Time:                        10:31:12   Pearson chi2:                     137.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.6745      0.387      1.744      0.081      -0.084       1.433
+ESCMAE         0.0850      0.045      1.884      0.060      -0.003       0.173
+RACACOR       -0.0318      0.036     -0.877      0.380      -0.103       0.039
+LOCNASC       -0.3407      0.335     -1.016      0.310      -0.998       0.317
+==============================================================================
+cleaning data for state AL, 1/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 1853
+Model:                            GLM   Df Residuals:                     1849
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -2298.4
+Date:                Mon, 18 Nov 2019   Deviance:                       308.30
+Time:                        10:31:20   Pearson chi2:                     301.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.6889      0.468      1.473      0.141      -0.228       1.606
+ESCMAE         0.0680      0.032      2.100      0.036       0.005       0.131
+RACACOR       -0.0019      0.028     -0.068      0.946      -0.057       0.053
+LOCNASC       -0.3816      0.448     -0.852      0.394      -1.259       0.496
+==============================================================================
+cleaning data for state AM, 2/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 2518
+Model:                            GLM   Df Residuals:                     2514
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -3003.5
+Date:                Mon, 18 Nov 2019   Deviance:                       399.58
+Time:                        10:31:34   Pearson chi2:                     416.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3997      0.324      1.234      0.217      -0.235       1.034
+ESCMAE         0.0978      0.032      3.077      0.002       0.035       0.160
+RACACOR       -0.0297      0.025     -1.173      0.241      -0.079       0.020
+LOCNASC       -0.1384      0.302     -0.458      0.647      -0.731       0.454
+==============================================================================
+cleaning data for state AP, 3/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                  517
+Model:                            GLM   Df Residuals:                      513
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -609.49
+Date:                Mon, 18 Nov 2019   Deviance:                       78.203
+Time:                        10:31:37   Pearson chi2:                     82.6
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3959      0.429      0.923      0.356      -0.445       1.236
+ESCMAE         0.1012      0.063      1.599      0.110      -0.023       0.225
+RACACOR       -0.0030      0.036     -0.082      0.935      -0.074       0.068
+LOCNASC       -0.2805      0.380     -0.738      0.460      -1.025       0.464
+==============================================================================
+cleaning data for state BA, 4/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 7525
+Model:                            GLM   Df Residuals:                     7521
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -9057.9
+Date:                Mon, 18 Nov 2019   Deviance:                       1223.5
+Time:                        10:32:14   Pearson chi2:                 1.26e+03
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.1751      0.088      2.000      0.045       0.004       0.347
+ESCMAE         0.0941      0.017      5.502      0.000       0.061       0.128
+RACACOR       -0.0084      0.011     -0.782      0.434      -0.030       0.013
+LOCNASC        0.0265      0.068      0.388      0.698      -0.108       0.161
+==============================================================================
+cleaning data for state CE, 5/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 4511
+Model:                            GLM   Df Residuals:                     4507
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -5612.3
+Date:                Mon, 18 Nov 2019   Deviance:                       750.62
+Time:                        10:32:38   Pearson chi2:                     730.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3745      0.328      1.144      0.253      -0.267       1.016
+ESCMAE         0.0679      0.022      3.034      0.002       0.024       0.112
+RACACOR       -0.0068      0.015     -0.456      0.648      -0.036       0.022
+LOCNASC       -0.0515      0.317     -0.163      0.871      -0.672       0.569
+==============================================================================
+cleaning data for state DF, 6/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                  583
+Model:                            GLM   Df Residuals:                      579
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -727.09
+Date:                Mon, 18 Nov 2019   Deviance:                       90.574
+Time:                        10:32:58   Pearson chi2:                     87.6
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.6234      0.728      0.856      0.392      -0.804       2.050
+ESCMAE         0.1028      0.049      2.080      0.038       0.006       0.200
+RACACOR       -0.0145      0.025     -0.578      0.563      -0.064       0.035
+LOCNASC       -0.3604      0.709     -0.508      0.611      -1.750       1.029
+==============================================================================
+cleaning data for state ES, 7/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                  996
+Model:                            GLM   Df Residuals:                      992
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -1265.9
+Date:                Mon, 18 Nov 2019   Deviance:                       148.81
+Time:                        10:33:27   Pearson chi2:                     138.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3209      0.187      1.715      0.086      -0.046       0.688
+ESCMAE         0.0547      0.039      1.403      0.160      -0.022       0.131
+RACACOR       -0.0067      0.018     -0.365      0.715      -0.043       0.029
+LOCNASC        0.0839      0.153      0.547      0.584      -0.217       0.384
+==============================================================================
+cleaning data for state GO, 8/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 1936
+Model:                            GLM   Df Residuals:                     1932
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -2452.2
+Date:                Mon, 18 Nov 2019   Deviance:                       290.35
+Time:                        10:33:55   Pearson chi2:                     272.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.4558      0.276      1.652      0.098      -0.085       0.996
+ESCMAE         0.0861      0.032      2.728      0.006       0.024       0.148
+RACACOR       -0.0143      0.014     -0.992      0.321      -0.043       0.014
+LOCNASC       -0.0939      0.259     -0.363      0.717      -0.602       0.414
+==============================================================================
+cleaning data for state MA, 9/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 5628
+Model:                            GLM   Df Residuals:                     5624
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -6945.0
+Date:                Mon, 18 Nov 2019   Deviance:                       935.30
+Time:                        10:34:26   Pearson chi2:                     923.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3936      0.107      3.680      0.000       0.184       0.603
+ESCMAE         0.0860      0.020      4.232      0.000       0.046       0.126
+RACACOR       -0.0196      0.013     -1.497      0.134      -0.045       0.006
+LOCNASC       -0.0701      0.083     -0.845      0.398      -0.233       0.093
+==============================================================================
+cleaning data for state MG, 10/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 5714
+Model:                            GLM   Df Residuals:                     5710
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -7105.6
+Date:                Mon, 18 Nov 2019   Deviance:                       942.66
+Time:                        10:35:36   Pearson chi2:                     917.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.6373      0.337      1.889      0.059      -0.024       1.299
+ESCMAE         0.0681      0.019      3.545      0.000       0.030       0.106
+RACACOR       -0.0174      0.008     -2.218      0.027      -0.033      -0.002
+LOCNASC       -0.2939      0.334     -0.881      0.378      -0.948       0.360
+==============================================================================
+cleaning data for state MS, 11/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 1122
+Model:                            GLM   Df Residuals:                     1118
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -1400.7
+Date:                Mon, 18 Nov 2019   Deviance:                       179.99
+Time:                        10:35:48   Pearson chi2:                     174.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.5732      0.461      1.244      0.213      -0.330       1.476
+ESCMAE         0.0768      0.040      1.910      0.056      -0.002       0.156
+RACACOR       -0.0231      0.017     -1.393      0.164      -0.056       0.009
+LOCNASC       -0.2054      0.448     -0.459      0.647      -1.083       0.672
+==============================================================================
+cleaning data for state MT, 12/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 1072
+Model:                            GLM   Df Residuals:                     1068
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -1355.8
+Date:                Mon, 18 Nov 2019   Deviance:                       167.39
+Time:                        10:36:03   Pearson chi2:                     157.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.4445      0.593      0.750      0.453      -0.717       1.606
+ESCMAE         0.0530      0.043      1.223      0.221      -0.032       0.138
+RACACOR       -0.0099      0.020     -0.507      0.612      -0.048       0.028
+LOCNASC       -0.0397      0.578     -0.069      0.945      -1.173       1.094
+==============================================================================
+cleaning data for state PA, 13/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 6124
+Model:                            GLM   Df Residuals:                     6120
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -7534.5
+Date:                Mon, 18 Nov 2019   Deviance:                       1016.7
+Time:                        10:36:41   Pearson chi2:                 1.01e+03
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3184      0.096      3.330      0.001       0.131       0.506
+ESCMAE         0.0882      0.018      4.843      0.000       0.053       0.124
+RACACOR       -0.0226      0.015     -1.487      0.137      -0.052       0.007
+LOCNASC        0.0101      0.065      0.155      0.877      -0.117       0.137
+==============================================================================
+cleaning data for state PB, 14/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 1768
+Model:                            GLM   Df Residuals:                     1765
+Model Family:                 Poisson   Df Model:                            2
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -2204.7
+Date:                Mon, 18 Nov 2019   Deviance:                       283.06
+Time:                        10:36:58   Pearson chi2:                     274.
+No. Iterations:                   100                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.1950      0.050      3.864      0.000       0.096       0.294
+ESCMAE         0.0884      0.032      2.789      0.005       0.026       0.150
+RACACOR       -0.0304      0.020     -1.531      0.126      -0.069       0.009
+LOCNASC        0.1950      0.050      3.864      0.000       0.096       0.294
+==============================================================================
+cleaning data for state PE, 15/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 4726
+Model:                            GLM   Df Residuals:                     4722
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -5809.3
+Date:                Mon, 18 Nov 2019   Deviance:                       781.44
+Time:                        10:37:30   Pearson chi2:                     777.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.4995      0.251      1.990      0.047       0.008       0.991
+ESCMAE         0.0836      0.021      4.039      0.000       0.043       0.124
+RACACOR       -0.0210      0.011     -1.986      0.047      -0.042      -0.000
+LOCNASC       -0.1840      0.243     -0.757      0.449      -0.660       0.292
+==============================================================================
+cleaning data for state PI, 16/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 2243
+Model:                            GLM   Df Residuals:                     2239
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -2790.7
+Date:                Mon, 18 Nov 2019   Deviance:                       370.55
+Time:                        10:37:41   Pearson chi2:                     360.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3988      0.145      2.752      0.006       0.115       0.683
+ESCMAE         0.0688      0.028      2.489      0.013       0.015       0.123
+RACACOR       -0.0101      0.019     -0.516      0.606      -0.048       0.028
+LOCNASC       -0.0617      0.111     -0.558      0.577      -0.279       0.155
+==============================================================================
+cleaning data for state PR, 17/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 2362
+Model:                            GLM   Df Residuals:                     2358
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -2943.6
+Date:                Mon, 18 Nov 2019   Deviance:                       393.64
+Time:                        10:38:18   Pearson chi2:                     381.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3600      0.151      2.384      0.017       0.064       0.656
+ESCMAE         0.0518      0.029      1.774      0.076      -0.005       0.109
+RACACOR       -0.0024      0.013     -0.188      0.851      -0.028       0.023
+LOCNASC       -0.0271      0.134     -0.203      0.839      -0.289       0.235
+==============================================================================
+cleaning data for state RJ, 18/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 4374
+Model:                            GLM   Df Residuals:                     4370
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -5449.5
+Date:                Mon, 18 Nov 2019   Deviance:                       707.66
+Time:                        10:39:24   Pearson chi2:                     687.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.5196      0.357      1.456      0.145      -0.180       1.219
+ESCMAE         0.0853      0.022      3.965      0.000       0.043       0.127
+RACACOR       -0.0200      0.009     -2.208      0.027      -0.038      -0.002
+LOCNASC       -0.1948      0.354     -0.550      0.582      -0.889       0.499
+==============================================================================
+cleaning data for state RN, 19/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 1549
+Model:                            GLM   Df Residuals:                     1545
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -1936.5
+Date:                Mon, 18 Nov 2019   Deviance:                       243.00
+Time:                        10:39:36   Pearson chi2:                     232.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.8538      0.221      3.858      0.000       0.420       1.288
+ESCMAE         0.0677      0.035      1.952      0.051      -0.000       0.136
+RACACOR       -0.0209      0.016     -1.309      0.190      -0.052       0.010
+LOCNASC       -0.4533      0.197     -2.297      0.022      -0.840      -0.067
+==============================================================================
+cleaning data for state RO, 20/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                  615
+Model:                            GLM   Df Residuals:                      611
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -775.51
+Date:                Mon, 18 Nov 2019   Deviance:                       96.395
+Time:                        10:39:42   Pearson chi2:                     91.1
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.9042      1.008      0.897      0.370      -1.072       2.881
+ESCMAE         0.0507      0.052      0.980      0.327      -0.051       0.152
+RACACOR       -0.0217      0.025     -0.881      0.378      -0.070       0.027
+LOCNASC       -0.4595      1.001     -0.459      0.646      -2.421       1.502
+==============================================================================
+cleaning data for state RR, 21/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                  315
+Model:                            GLM   Df Residuals:                      311
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -380.53
+Date:                Mon, 18 Nov 2019   Deviance:                       50.057
+Time:                        10:39:44   Pearson chi2:                     51.0
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.5429      0.555      0.978      0.328      -0.546       1.631
+ESCMAE         0.1149      0.083      1.382      0.167      -0.048       0.278
+RACACOR       -0.0283      0.047     -0.607      0.544      -0.119       0.063
+LOCNASC       -0.3036      0.505     -0.601      0.548      -1.294       0.687
+==============================================================================
+cleaning data for state RS, 22/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 1348
+Model:                            GLM   Df Residuals:                     1345
+Model Family:                 Poisson   Df Model:                            2
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -1698.2
+Date:                Mon, 18 Nov 2019   Deviance:                       208.74
+Time:                        10:40:26   Pearson chi2:                     198.
+No. Iterations:                   100                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.1541      0.043      3.579      0.000       0.070       0.238
+ESCMAE         0.0915      0.036      2.526      0.012       0.021       0.162
+RACACOR       -0.0136      0.022     -0.605      0.545      -0.057       0.030
+LOCNASC        0.1541      0.043      3.579      0.000       0.070       0.238
+==============================================================================
+cleaning data for state SC, 23/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 1930
+Model:                            GLM   Df Residuals:                     1926
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -2392.7
+Date:                Mon, 18 Nov 2019   Deviance:                       320.19
+Time:                        10:40:48   Pearson chi2:                     313.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.4196      0.509      0.825      0.409      -0.577       1.416
+ESCMAE         0.0694      0.032      2.151      0.031       0.006       0.133
+RACACOR       -0.0230      0.020     -1.157      0.247      -0.062       0.016
+LOCNASC       -0.1126      0.501     -0.225      0.822      -1.094       0.868
+==============================================================================
+cleaning data for state SE, 24/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                  743
+Model:                            GLM   Df Residuals:                      739
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -899.60
+Date:                Mon, 18 Nov 2019   Deviance:                       122.96
+Time:                        10:41:00   Pearson chi2:                     125.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.5914      1.019      0.580      0.562      -1.406       2.588
+ESCMAE         0.0732      0.054      1.359      0.174      -0.032       0.179
+RACACOR       -0.0145      0.039     -0.373      0.709      -0.091       0.062
+LOCNASC       -0.3033      1.001     -0.303      0.762      -2.265       1.659
+==============================================================================
+cleaning data for state SP, 25/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                 8313
+Model:                            GLM   Df Residuals:                     8309
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -10411.
+Date:                Mon, 18 Nov 2019   Deviance:                       1336.9
+Time:                        10:46:43   Pearson chi2:                 1.28e+03
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.4717      0.177      2.660      0.008       0.124       0.819
+ESCMAE         0.0841      0.017      4.955      0.000       0.051       0.117
+RACACOR       -0.0150      0.006     -2.428      0.015      -0.027      -0.003
+LOCNASC       -0.1622      0.172     -0.944      0.345      -0.499       0.174
+==============================================================================
+cleaning data for state TO, 26/27
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                  777
+Model:                            GLM   Df Residuals:                      773
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -960.49
+Date:                Mon, 18 Nov 2019   Deviance:                       126.41
+Time:                        10:47:00   Pearson chi2:                     124.
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.4865      0.610      0.797      0.425      -0.710       1.683
+ESCMAE         0.1143      0.052      2.208      0.027       0.013       0.216
+RACACOR        0.0056      0.033      0.171      0.864      -0.059       0.070
+LOCNASC       -0.3116      0.580     -0.537      0.591      -1.448       0.825
+==============================================================================
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  PARTO   No. Observations:                71997
+Model:                            GLM   Df Residuals:                    71993
+Model Family:                 Poisson   Df Model:                            3
+Link Function:                    log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -89107.
+Date:                Mon, 18 Nov 2019   Deviance:                       11857.
+Time:                        11:04:21   Pearson chi2:                 1.16e+04
+No. Iterations:                     4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      0.3691      0.035     10.426      0.000       0.300       0.439
+ESCMAE         0.0835      0.005     15.715      0.000       0.073       0.094
+RACACOR       -0.0167      0.002     -7.091      0.000      -0.021      -0.012
+LOCNASC       -0.0591      0.032     -1.831      0.067      -0.122       0.004
+==============================================================================
