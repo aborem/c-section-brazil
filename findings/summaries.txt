@@ -7,45 +7,6 @@ Model Family:                 Poisson   Df Model:                            3
 Link Function:                    log   Scale:                          1.0000
 Method:                          IRLS   Log-Likelihood:                -1011.5
 Date:                Mon, 18 Nov 2019   Deviance:                       135.21
-Time:                        10:23:37   Pearson chi2:                     137.
-No. Iterations:                     4                                         
-Covariance Type:            nonrobust                                         
-==============================================================================
-                 coef    std err          z      P>|z|      [0.025      0.975]
-------------------------------------------------------------------------------
-Intercept      0.6745      0.387      1.744      0.081      -0.084       1.433
-ESCMAE         0.0850      0.045      1.884      0.060      -0.003       0.173
-RACACOR       -0.0318      0.036     -0.877      0.380      -0.103       0.039
-LOCNASC       -0.3407      0.335     -1.016      0.310      -0.998       0.317
-==============================================================================
-                 Generalized Linear Model Regression Results                  
-==============================================================================
-Dep. Variable:                  PARTO   No. Observations:                 1072
-Model:                            GLM   Df Residuals:                     1068
-Model Family:                 Poisson   Df Model:                            3
-Link Function:                    log   Scale:                          1.0000
-Method:                          IRLS   Log-Likelihood:                -1355.8
-Date:                Mon, 18 Nov 2019   Deviance:                       167.39
-Time:                        10:30:55   Pearson chi2:                     157.
-No. Iterations:                     4                                         
-Covariance Type:            nonrobust                                         
-==============================================================================
-                 coef    std err          z      P>|z|      [0.025      0.975]
-------------------------------------------------------------------------------
-Intercept      0.4445      0.593      0.750      0.453      -0.717       1.606
-ESCMAE         0.0530      0.043      1.223      0.221      -0.032       0.138
-RACACOR       -0.0099      0.020     -0.507      0.612      -0.048       0.028
-LOCNASC       -0.0397      0.578     -0.069      0.945      -1.173       1.094
-==============================================================================
-cleaning data for state AC, 0/27
-                 Generalized Linear Model Regression Results                  
-==============================================================================
-Dep. Variable:                  PARTO   No. Observations:                  835
-Model:                            GLM   Df Residuals:                      831
-Model Family:                 Poisson   Df Model:                            3
-Link Function:                    log   Scale:                          1.0000
-Method:                          IRLS   Log-Likelihood:                -1011.5
-Date:                Mon, 18 Nov 2019   Deviance:                       135.21
 Time:                        10:31:12   Pearson chi2:                     137.
 No. Iterations:                     4                                         
 Covariance Type:            nonrobust                                         
@@ -577,6 +538,7 @@ ESCMAE         0.1143      0.052      2.208      0.027       0.013       0.216
 RACACOR        0.0056      0.033      0.171      0.864      -0.059       0.070
 LOCNASC       -0.3116      0.580     -0.537      0.591      -1.448       0.825
 ==============================================================================
+br                 
                  Generalized Linear Model Regression Results                  
 ==============================================================================
 Dep. Variable:                  PARTO   No. Observations:                71997

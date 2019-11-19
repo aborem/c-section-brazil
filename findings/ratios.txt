@@ -1,4 +1,4 @@
-cleaning data for state AC, 0/27
+{"AC":
 {
     "Race": {
         "White": {
@@ -68,8 +68,8 @@ cleaning data for state AC, 0/27
             "t%": "9.24"
         }
     }
-}
-cleaning data for state AL, 1/27
+},
+"AL":
 {
     "Race": {
         "White": {
@@ -139,8 +139,8 @@ cleaning data for state AL, 1/27
             "t%": "5.99"
         }
     }
-}
-cleaning data for state AM, 2/27
+},
+"AM":
 {
     "Race": {
         "White": {
@@ -210,8 +210,8 @@ cleaning data for state AM, 2/27
             "t%": "4.82"
         }
     }
-}
-cleaning data for state AP, 3/27
+},
+"AP":
 {
     "Race": {
         "White": {
@@ -281,8 +281,8 @@ cleaning data for state AP, 3/27
             "t%": "11.75"
         }
     }
-}
-cleaning data for state BA, 4/27
+},
+"BA":
 {
     "Race": {
         "White": {
@@ -352,8 +352,8 @@ cleaning data for state BA, 4/27
             "t%": "6.3"
         }
     }
-}
-cleaning data for state CE, 5/27
+},
+"CE":
 {
     "Race": {
         "White": {
@@ -423,8 +423,8 @@ cleaning data for state CE, 5/27
             "t%": "7.17"
         }
     }
-}
-cleaning data for state DF, 6/27
+},
+"DF":
 {
     "Race": {
         "White": {
@@ -494,8 +494,8 @@ cleaning data for state DF, 6/27
             "t%": "31.9"
         }
     }
-}
-cleaning data for state ES, 7/27
+},
+"ES":
 {
     "Race": {
         "White": {
@@ -565,8 +565,8 @@ cleaning data for state ES, 7/27
             "t%": "18.54"
         }
     }
-}
-cleaning data for state GO, 8/27
+},
+"GO":
 {
     "Race": {
         "White": {
@@ -636,8 +636,8 @@ cleaning data for state GO, 8/27
             "t%": "14.6"
         }
     }
-}
-cleaning data for state MA, 9/27
+},
+"MA":
 {
     "Race": {
         "White": {
@@ -707,8 +707,8 @@ cleaning data for state MA, 9/27
             "t%": "5.0"
         }
     }
-}
-cleaning data for state MG, 10/27
+},
+"MG":
 {
     "Race": {
         "White": {
@@ -778,8 +778,8 @@ cleaning data for state MG, 10/27
             "t%": "11.22"
         }
     }
-}
-cleaning data for state MS, 11/27
+},
+"MS":
 {
     "Race": {
         "White": {
@@ -849,8 +849,8 @@ cleaning data for state MS, 11/27
             "t%": "11.14"
         }
     }
-}
-cleaning data for state MT, 12/27
+},
+"MT":
 {
     "Race": {
         "White": {
@@ -920,8 +920,8 @@ cleaning data for state MT, 12/27
             "t%": "13.16"
         }
     }
-}
-cleaning data for state PA, 13/27
+},
+"PA":
 {
     "Race": {
         "White": {
@@ -991,8 +991,8 @@ cleaning data for state PA, 13/27
             "t%": "5.73"
         }
     }
-}
-cleaning data for state PB, 14/27
+},
+"PB":
 {
     "Race": {
         "White": {
@@ -1062,8 +1062,8 @@ cleaning data for state PB, 14/27
             "t%": "8.98"
         }
     }
-}
-cleaning data for state PE, 15/27
+},
+"PE":
 {
     "Race": {
         "White": {
@@ -1133,8 +1133,8 @@ cleaning data for state PE, 15/27
             "t%": "7.68"
         }
     }
-}
-cleaning data for state PI, 16/27
+},
+"PI":
 {
     "Race": {
         "White": {
@@ -1204,8 +1204,8 @@ cleaning data for state PI, 16/27
             "t%": "10.97"
         }
     }
-}
-cleaning data for state PR, 17/27
+},
+"PR":
 {
     "Race": {
         "White": {
@@ -1275,8 +1275,8 @@ cleaning data for state PR, 17/27
             "t%": "11.2"
         }
     }
-}
-cleaning data for state RJ, 18/27
+},
+"RJ":
 {
     "Race": {
         "White": {
@@ -1346,8 +1346,8 @@ cleaning data for state RJ, 18/27
             "t%": "11.93"
         }
     }
-}
-cleaning data for state RN, 19/27
+},
+"RN":
 {
     "Race": {
         "White": {
@@ -1417,8 +1417,8 @@ cleaning data for state RN, 19/27
             "t%": "7.78"
         }
     }
-}
-cleaning data for state RO, 20/27
+},
+"RO":
 {
     "Race": {
         "White": {
@@ -1488,8 +1488,8 @@ cleaning data for state RO, 20/27
             "t%": "12.3"
         }
     }
-}
-cleaning data for state RR, 21/27
+},
+"RR":
 {
     "Race": {
         "White": {
@@ -1559,8 +1559,8 @@ cleaning data for state RR, 21/27
             "t%": "12.54"
         }
     }
-}
-cleaning data for state RS, 22/27
+},
+"RS":
 {
     "Race": {
         "White": {
@@ -1630,8 +1630,8 @@ cleaning data for state RS, 22/27
             "t%": "15.01"
         }
     }
-}
-cleaning data for state SC, 23/27
+},
+"SC":
 {
     "Race": {
         "White": {
@@ -1701,8 +1701,8 @@ cleaning data for state SC, 23/27
             "t%": "15.01"
         }
     }
-}
-cleaning data for state SE, 24/27
+},
+"SE":
 {
     "Race": {
         "White": {
@@ -1772,8 +1772,8 @@ cleaning data for state SE, 24/27
             "t%": "3.88"
         }
     }
-}
-cleaning data for state SP, 25/27
+},
+"SP":
 {
     "Race": {
         "White": {
@@ -1843,8 +1843,8 @@ cleaning data for state SP, 25/27
             "t%": "14.0"
         }
     }
-}
-cleaning data for state TO, 26/27
+},
+"TO":
 {
     "Race": {
         "White": {
@@ -1914,7 +1914,8 @@ cleaning data for state TO, 26/27
             "t%": "9.91"
         }
     }
-}
+},
+"Brazil":
 {
     "Race": {
         "White": {
@@ -1985,73 +1986,4 @@ cleaning data for state TO, 26/27
         }
     }
 }
-{
-    "Race": {
-        "White": {
-            "y": 9800,
-            "y%": "59.6",
-            "n": 6643,
-            "n%": "40.4",
-            "t": 16443,
-            "t%": "22.68"
-        },
-        "Black": {
-            "y": 1824,
-            "y%": "47.46",
-            "n": 2019,
-            "n%": "52.54",
-            "t": 3843,
-            "t%": "5.3"
-        },
-        "Amarela": {
-            "y": 120,
-            "y%": "52.4",
-            "n": 109,
-            "n%": "47.6",
-            "t": 229,
-            "t%": "0.32"
-        },
-        "Parda": {
-            "y": 24621,
-            "y%": "48.1",
-            "n": 26566,
-            "n%": "51.9",
-            "t": 51187,
-            "t%": "70.6"
-        },
-        "Indigenous": {
-            "y": 236,
-            "y%": "29.46",
-            "n": 565,
-            "n%": "70.54",
-            "t": 801,
-            "t%": "1.1"
-        }
-    },
-    "Education": {
-        "Up to 7 years": {
-            "y": 8049,
-            "y%": "41.05",
-            "n": 11561,
-            "n%": "58.95",
-            "t": 19610,
-            "t%": "27.05"
-        },
-        "8 to 11 years": {
-            "y": 23416,
-            "y%": "51.54",
-            "n": 22021,
-            "n%": "48.46",
-            "t": 45437,
-            "t%": "62.67"
-        },
-        "12 years and over": {
-            "y": 4972,
-            "y%": "71.54",
-            "n": 1978,
-            "n%": "28.46",
-            "t": 6950,
-            "t%": "9.59"
-        }
-    }
 }
